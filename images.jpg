@@ -1,1 +1,6 @@
+echo wgat is your name
+read $name
+ech where are you from
+reach $location
+# name and lation
 ccs
